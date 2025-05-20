@@ -10,7 +10,7 @@ I have successfully earned the Microsoft Certified: Azure Fundamentals certifica
 🔹 **Certification:**  The Microsoft Azure Certification proves my expertise in Azure
 
 <p align="center">
-  <img src="https://i.imgur.com/LJCv1pP.png" height="80%" width="80%" alt="Replace"/>
+  <img src="https://i.imgur.com/Ek9LNbS.png" height="80%" width="80%" alt="Replace"/>
 </p>
 <br />
 <br />
